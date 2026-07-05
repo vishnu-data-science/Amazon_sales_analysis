@@ -93,8 +93,6 @@ The project includes SQL queries for:
 
 # 📸 Dashboard Preview
 
-> *(Upload your Power BI dashboard screenshot here as `Dashboard.png`)*
-
 ![Dashboard Preview](amazon_sales_dashboard.png)
 
 ---
