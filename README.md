@@ -95,7 +95,7 @@ The project includes SQL queries for:
 
 > *(Upload your Power BI dashboard screenshot here as `Dashboard.png`)*
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](amazon_sales_dashboard.png)
 
 ---
 
